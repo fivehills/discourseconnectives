@@ -1,0 +1,497 @@
+about,2,Contingency.Cause.Reason
+accordingly,5,Contingency.Cause.Result
+additionally,7,Expansion.Conjunction
+after,56,Temporal.Asynchronous.Succession
+,533,Temporal.Asynchronous.Succession
+,28,Contingency.Cause.Reason
+afterward,6,Temporal.Asynchronous.Precedence
+afterwards,5,Temporal.Asynchronous.Precedence
+albeit,1,Comparison.Concession.Arg2-as-denier
+along_with,2,Expansion.Conjunction
+also,1736,Expansion.Conjunction
+,0.5,Temporal.Synchronous
+,0.5,Expansion.Conjunction
+alternatively,4,Expansion.Disjunction
+,2,Expansion.Substitution.Arg2-as-subst
+although,206,Comparison.Concession.Arg1-as-denier
+,105,Comparison.Concession.Arg2-as-denier
+,14,Comparison.Contrast
+,2,Expansion.Exception.Arg2-as-excpt
+,0.5,Temporal.Synchronous
+,0.5,Comparison.Contrast
+and,2,Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct
+,16,Comparison.Contrast
+,1,Contingency.Cause+SpeechAct.Result+SpeechAct
+,4,Contingency.Cause.Reason
+,6,Contingency.Cause.Result
+,6,Expansion.Conjunction
+,5,Contingency.Cause.Result
+,22,Contingency.Condition.Arg1-as-cond
+,128,Contingency.Purpose.Arg2-as-goal
+,6189,Expansion.Conjunction
+,4,Expansion.Level-of-detail.Arg2-as-detail
+,19,Expansion.Manner.Arg2-as-manner
+and_then,1,Expansion.Disjunction
+and/or,1,Expansion.Conjunction
+,1,Expansion.Disjunction
+as,7,Comparison.Concession.Arg1-as-denier
+,5,Comparison.Contrast
+,65,Comparison.Similarity
+,3,Contingency.Cause+Belief.Reason+Belief
+,180,Contingency.Cause.Reason
+,4,Expansion.Instantiation.Arg2-as-instance
+,8,Expansion.Level-of-detail.Arg1-as-detail
+,3,Expansion.Manner.Arg2-as-manner
+,11.5,Temporal.Asynchronous.Succession
+,11.5,Contingency.Cause.Reason
+,3,Temporal.Asynchronous.Succession
+,1,Comparison.Contrast
+,1,Temporal.Synchronous
+,0.5,Temporal.Synchronous
+,0.5,Comparison.Similarity
+,2.5,Temporal.Synchronous
+,2.5,Contingency.Cause+Belief.Reason+Belief
+,73,Temporal.Synchronous
+,73,Contingency.Cause.Reason
+,383,Temporal.Synchronous
+as_a_result,78,Contingency.Cause.Result
+as_an_alternative,2,Expansion.Disjunction
+as_if,4,Comparison.Concession.Arg2-as-denier
+,5,Comparison.Similarity
+,5,Expansion.Manner.Arg2-as-manner
+,1,Expansion.Instantiation.Arg1-as-instance
+,1,Expansion.Manner.Arg2-as-manner
+as_long_as,13,Contingency.Condition.Arg2-as-cond
+,3.5,Temporal.Synchronous
+,3.5,Contingency.Condition.Arg2-as-cond
+,4,Temporal.Synchronous
+as_much_as,2,Comparison.Concession.Arg1-as-denier
+,1,Expansion.Conjunction
+,1,Expansion.Substitution.Arg2-as-subst
+as_soon_as,11,Temporal.Asynchronous.Succession
+,9,Temporal.Synchronous
+as_though,1,Comparison.Similarity
+,1,Expansion.Manner.Arg2-as-manner
+,1,Comparison.Similarity
+,2,Expansion.Level-of-detail.Arg2-as-detail
+as_well,6,Comparison.Similarity
+,12,Expansion.Conjunction
+as_well_as,7,Expansion.Conjunction
+at_the_same_time,65,Temporal.Synchronous
+because,2,Contingency.Cause+Belief.Reason+Belief
+,833,Contingency.Cause.Reason
+,2,Contingency.Condition+SpeechAct
+because_of,12,Contingency.Cause.Reason
+before,309,Temporal.Asynchronous.Precedence
+,2,Temporal.Asynchronous.Succession
+before_and_after,0.5,Temporal.Asynchronous.Precedence
+,0.5,Temporal.Asynchronous.Succession
+besides,19,Expansion.Conjunction
+beyond,1,Expansion.Conjunction
+both+and,6,Expansion.Conjunction
+but,2,Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct
+,3063,Comparison.Concession.Arg2-as-denier
+,618,Comparison.Contrast
+,1,Contingency.Cause+SpeechAct.Reason+SpeechAct
+,0.5,Contingency.Cause.Reason
+,0.5,Comparison.Concession.Arg2-as-denier
+,42,Expansion.Conjunction
+,3,Expansion.Exception.Arg2-as-excpt
+,0.5,Temporal.Synchronous
+,0.5,Comparison.Contrast
+but_also,1,Expansion.Conjunction
+but_then,3,Comparison.Concession.Arg2-as-denier
+but_then_again,1,Comparison.Concession.Arg2-as-denier
+by,1,Comparison.Concession.Arg1-as-denier
+,1.5,Contingency.Cause+Belief.Reason+Belief
+,1.5,Expansion.Manner.Arg2-as-manner
+,42.5,Contingency.Cause.Reason
+,42.5,Expansion.Manner.Arg2-as-manner
+,10,Contingency.Cause.Reason
+,16,Contingency.Condition.Arg2-as-cond
+,16,Expansion.Manner.Arg2-as-manner
+,2,Contingency.Condition.Arg2-as-cond
+,57.5,Contingency.Purpose.Arg1-as-goal
+,57.5,Expansion.Manner.Arg2-as-manner
+,2,Expansion.Level-of-detail.Arg2-as-detail
+,174,Expansion.Manner.Arg2-as-manner
+,1,Temporal.Synchronous
+by_comparison ,11,Comparison.Contrast
+by_contrast ,28,Comparison.Contrast
+by_then ,0.5,Temporal.Asynchronous.Succession
+,0.5,Contingency.Cause.Reason
+,6,Temporal.Asynchronous.Succession
+consequently,10,Contingency.Cause.Result
+conversely,2,Comparison.Contrast
+depending_on ,3,Contingency.Condition.Arg2-as-cond
+depending_upon ,1,Contingency.Condition.Arg2-as-cond
+despite,9,Comparison.Concession.Arg1-as-denier
+due_to ,1,Contingency.Cause.Reason
+earlier,15,Temporal.Asynchronous.Succession
+either+or,2,Contingency.Negative-condition.Arg1-as-negCond
+,36,Expansion.Disjunction
+else,1,Contingency.Negative-condition.Arg1-as-negCond
+even_after ,4,Temporal.Asynchronous.Succession
+,4,Comparison.Concession.Arg1-as-denier
+even_as ,2,Comparison.Concession.Arg1-as-denier
+,5.5,Temporal.Synchronous
+,5.5,Comparison.Concession.Arg1-as-denier
+even_before ,7,Temporal.Asynchronous.Precedence
+,7,Comparison.Concession.Arg1-as-denier
+even_before_then ,0.5,Temporal.Asynchronous.Succession
+,0.5,Comparison.Concession.Arg2-as-denier
+even_if ,87,Comparison.Concession.Arg1-as-denier
+even_so ,9,Comparison.Concession.Arg2-as-denier
+even_then ,1,Temporal.Asynchronous.Precedence
+,1,Comparison.Concession.Arg2-as-denier
+even_though ,69,Comparison.Concession.Arg1-as-denier
+,26,Comparison.Concession.Arg2-as-denier
+even_when ,8,Comparison.Concession.Arg1-as-denier
+,2,Temporal.Asynchronous.Succession
+,2,Comparison.Concession.Arg1-as-denier
+,1,Temporal.Synchronous
+,1,Comparison.Concession.Arg1-as-denier
+even_while ,1.5,Temporal.Synchronous
+,1.5,Comparison.Concession.Arg1-as-denier
+even_with ,2,Comparison.Concession.Arg1-as-denier
+except,12,Expansion.Exception.Arg2-as-excpt
+finally,18,Expansion.Conjunction
+,0.5,Temporal.Asynchronous.Precedence
+,0.5,Contingency.Cause.Result
+,13,Temporal.Asynchronous.Precedence
+for,1,Comparison.Concession.Arg1-as-denier
+,34,Contingency.Cause.Reason
+,1,Contingency.Cause.Result
+,7,Contingency.Condition.Arg2-as-cond
+,16,Contingency.Purpose.Arg2-as-goal
+,1,Expansion.Level-of-detail.Arg2-as-detail
+for_example ,200,Expansion.Instantiation.Arg2-as-instance
+for_instance ,98,Expansion.Instantiation.Arg2-as-instance
+from,2,Contingency.Cause+Belief.Reason+Belief
+,0.5,Contingency.Cause.Reason
+,0.5,Contingency.Condition.Arg2-as-cond
+,0.5,Contingency.Cause.Reason
+,0.5,Expansion.Manner.Arg2-as-manner
+,2,Contingency.Cause.Reason
+,1,Expansion.Substitution.Arg1-as-subst
+further,7,Expansion.Conjunction
+furthermore,12,Expansion.Conjunction
+given,3,Contingency.Cause+Belief.Reason+Belief
+,6,Contingency.Cause.Reason
+hence,5,Contingency.Cause.Result
+however,5,Comparison.Concession.Arg1-as-denier
+,390,Comparison.Concession.Arg2-as-denier
+,95,Comparison.Contrast
+,0.5,Temporal.Synchronous
+,0.5,Comparison.Contrast
+if,1,Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct
+,6,Comparison.Concession.Arg1-as-denier
+,3,Comparison.Concession.Arg2-as-denier
+,2,Comparison.Contrast
+,56,Contingency.Condition+SpeechAct
+,0.5,Contingency.Condition.Arg2-as-cond
+,0.5,Expansion.Level-of-detail.Arg2-as-detail
+,1084,Contingency.Condition.Arg2-as-cond
+,0.5,Temporal.Synchronous
+,0.5,Contingency.Condition.Arg2-as-cond
+if_and_when ,2,Contingency.Condition.Arg2-as-cond
+,0.5,Temporal.Synchronous
+,0.5,Contingency.Condition.Arg2-as-cond
+if_only ,1,Comparison.Concession.Arg2-as-denier
+,4,Contingency.Condition.Arg2-as-cond
+,1,Contingency.Purpose.Arg2-as-goal
+if+then,1,Contingency.Condition+SpeechAct
+,37,Contingency.Condition.Arg2-as-cond
+in,1,Contingency.Cause+Belief.Reason+Belief
+,1.5,Contingency.Cause.Reason
+,1.5,Expansion.Manner.Arg2-as-manner
+,1,Contingency.Cause.Reason
+,1,Contingency.Condition.Arg2-as-cond
+,1,Expansion.Manner.Arg2-as-manner
+,8,Contingency.Condition.Arg2-as-cond
+,2,Contingency.Purpose.Arg2-as-goal
+,1,Expansion.Instantiation.Arg1-as-instance
+,17,Expansion.Level-of-detail.Arg1-as-detail
+,2,Expansion.Level-of-detail.Arg2-as-detail
+,13,Expansion.Manner.Arg2-as-manner
+,0.5,Temporal.Synchronous
+,0.5,Contingency.Purpose.Arg2-as-goal
+,0.5,Temporal.Synchronous
+,0.5,Expansion.Level-of-detail.Arg1-as-detail
+,18,Temporal.Synchronous
+in_addition ,165,Expansion.Conjunction
+in_any_case ,3,Comparison.Concession.Arg2-as-denier
+in_case ,6,Contingency.Condition.Arg2-as-cond
+in_contrast ,12,Comparison.Contrast
+in_fact ,4,Comparison.Concession.Arg2-as-denier
+,7,Comparison.Contrast
+,36,Expansion.Conjunction
+,3,Expansion.Instantiation.Arg2-as-instance
+,1,Expansion.Level-of-detail.Arg1-as-detail
+,34,Expansion.Level-of-detail.Arg2-as-detail
+in_order ,4,Contingency.Condition.Arg2-as-cond
+,51,Contingency.Purpose.Arg2-as-goal
+in_other_words ,17,Expansion.Equivalence
+in_particular ,6,Expansion.Instantiation.Arg2-as-instance
+,9,Expansion.Level-of-detail.Arg2-as-detail
+in_short ,4,Expansion.Level-of-detail.Arg1-as-detail
+in_sum ,2,Expansion.Level-of-detail.Arg1-as-detail
+in_that ,1,Expansion.Level-of-detail.Arg2-as-detail
+in_the_end ,1,Comparison.Concession.Arg2-as-denier
+,1,Comparison.Contrast
+,2,Contingency.Cause.Result
+,1,Expansion.Conjunction
+,2,Expansion.Level-of-detail.Arg1-as-detail
+,1,Expansion.Level-of-detail.Arg2-as-detail
+,3,Temporal.Asynchronous.Precedence
+in_the_meantime ,2,Temporal.Asynchronous.Succession
+,0.5,Temporal.Synchronous
+,0.5,Comparison.Contrast
+,11,Temporal.Synchronous
+in_the_meanwhile,1,Temporal.Synchronous
+indeed,1,Comparison.Concession.Arg2-as-denier
+,4,Contingency.Cause+Belief.Reason+Belief
+,1,Contingency.Cause.Reason
+,0.5,Contingency.Cause.Result
+,0.5,Expansion.Conjunction
+,54,Expansion.Conjunction
+,2,Expansion.Equivalence
+,2,Expansion.Instantiation.Arg2-as-instance
+,1,Expansion.Level-of-detail.Arg1-as-detail
+,37,Expansion.Level-of-detail.Arg2-as-detail
+insofar_as ,1,Contingency.Cause.Reason
+,1,Expansion.Level-of-detail.Arg2-as-detail
+instead,112,Expansion.Substitution.Arg2-as-subst
+instead_of ,43,Expansion.Substitution.Arg1-as-subst
+later,92,Temporal.Asynchronous.Precedence
+later_on ,2,Temporal.Asynchronous.Precedence
+lest,2,Contingency.Negative-condition.Arg1-as-negCond
+like,1,Comparison.Contrast
+,3,Comparison.Similarity
+,1,Expansion.Instantiation.Arg2-as-instance
+likewise,8,Expansion.Conjunction
+meantime,2,Temporal.Synchronous
+meanwhile,2,Comparison.Concession.Arg2-as-denier
+,7,Comparison.Contrast
+,27,Expansion.Conjunction
+,0.5,Temporal.Synchronous
+,0.5,Comparison.Concession.Arg2-as-denier
+,16.5,Temporal.Synchronous
+,16.5,Comparison.Contrast
+,1,Temporal.Synchronous
+,1,Comparison.Similarity
+,120,Temporal.Synchronous
+more_accurately ,1,Expansion.Substitution.Arg2-as-subst
+moreover,103,Expansion.Conjunction
+much_less ,3,Expansion.Conjunction
+neither+nor,1,Comparison.Contrast
+,2,Expansion.Conjunction
+nevertheless,32,Comparison.Concession.Arg2-as-denier
+,12,Comparison.Contrast
+next,0.5,Temporal.Asynchronous.Precedence
+,0.5,Expansion.Conjunction
+,4,Temporal.Asynchronous.Precedence
+no_matter ,8,Comparison.Concession.Arg1-as-denier
+nonetheless,25,Comparison.Concession.Arg2-as-denier
+,2,Comparison.Contrast
+nor,1,Comparison.Concession.Arg2-as-denier
+,31,Expansion.Conjunction
+,1,Expansion.Disjunction
+not_just+but ,1,Expansion.Conjunction
+not_just+but+also ,1,Expansion.Conjunction
+not_only ,5,Expansion.Conjunction
+not_only+also ,1,Expansion.Conjunction
+not_only_because_of,1,Contingency.Cause.Reason
+not_only+but ,1,Comparison.Concession.Arg2-as-denier
+,18,Expansion.Conjunction
+not_only+but_also ,1,Comparison.Contrast
+,9,Expansion.Conjunction
+not_so_much_as ,1,Expansion.Substitution.Arg2-as-subst
+now_that,10,Contingency.Cause.Reason
+,0.5,Temporal.Asynchronous.Precedence
+,0.5,Contingency.Cause.Reason
+,2,Temporal.Asynchronous.Succession
+,2,Contingency.Cause.Reason
+,2,Temporal.Synchronous
+,2,Contingency.Cause.Reason
+,2,Temporal.Synchronous
+on,1,Contingency.Cause.Reason
+on_the_contrary ,4,Comparison.Contrast
+,1,Comparison.Contrast
+on_the_other_hand,4,Comparison.Concession.Arg2-as-denier
+,32,Comparison.Contrast
+once,4,Contingency.Condition.Arg2-as-cond
+,3.5,Temporal.Asynchronous.Succession
+,3.5,Contingency.Cause.Reason
+,1.5,Temporal.Asynchronous.Succession
+,1.5,Contingency.Condition.Arg2-
+,70,Temporal.Asynchronous.Succession
+only,2,Comparison.Concession.Arg2-as-denier
+,1,Comparison.Contrast
+,3,Expansion.Exception.Arg2-as-excpt
+,1,Expansion.Level-of-detail.Arg2-as-detail
+only_if,13,Contingency.Condition.Arg2-as-cond
+or,11,Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct
+,1,Comparison.Concession.Arg2-as-denier
+,2,Contingency.Condition+SpeechAct
+,7,Contingency.Negative-condition.Arg1-as-negCond
+,71,Expansion.Conjunction
+,258,Expansion.Disjunction
+,6,Expansion.Equivalence
+or_otherwise ,2,Expansion.Disjunction
+otherwise,4,Contingency.Negative-condition.Arg1-as-negCond
+,15,Expansion.Exception.Arg1-as-excpt
+plus,1,Expansion.Conjunction
+previously,0.5,Temporal.Asynchronous.Succession
+,0.5,Comparison.Contrast
+,53,Temporal.Asynchronous.Succession
+rather,17,Expansion.Substitution.Arg2-as-subst
+rather_than,40,Expansion.Substitution.Arg1-as-subst
+regardless,2,Comparison.Concession.Arg2-as-denier
+regardless_of,6,Comparison.Concession.Arg1-as-denier
+separately,72,Expansion.Conjunction
+,1,Temporal.Synchronous
+,1,Expansion.Conjunction
+similarly,18,Comparison.Similarity
+simultaneously,6,Temporal.Synchronous
+since,96,Contingency.Cause.Reason
+,10,Temporal.Asynchronous.Precedence
+,5.5,Temporal.Asynchronous.Succession
+,5.5,Contingency.Cause.Reason
+,83,Temporal.Asynchronous.Succession
+since_before,1,Temporal.Asynchronous.Succession
+so,1,Contingency.Cause+Belief.Result+Belief
+,222,Contingency.Cause.Result
+,44,Contingency.Purpose.Arg2-as-goal
+so_as,3,Contingency.Purpose.Arg2-as-goal
+so_long_as,4,Contingency.Condition.Arg2-as-cond
+so_much_as,1,Expansion.Substitution.Arg2-as-subst
+so_that,10,Contingency.Cause.Result
+,21,Contingency.Purpose.Arg2-as-goal
+specifically,10,Expansion.Level-of-detail.Arg2-as-detail
+still,115,Comparison.Concession.Arg2-as-denier
+,75,Comparison.Contrast
+,2,Temporal.Asynchronous.Precedence
+,1,Temporal.Synchronous
+subsequently,3,Temporal.Asynchronous.Precedence
+such_as,2,Expansion.Instantiation.Arg2-as-instance
+that_is,2,Expansion.Equivalence
+,2,Expansion.Level-of-detail.Arg2-as-detail
+then,0.5,Contingency.Cause.Result
+,0.5,Expansion.Conjunction
+,7,Contingency.Cause.Result
+,1,Contingency.Condition.Arg1-as-cond
+,11,Expansion.Conjunction
+,2.5,Temporal.Asynchronous.Precedence
+,2.5,Contingency.Cause.Result
+,310,Temporal.Asynchronous.Precedence
+,4,Temporal.Synchronous
+thereafter,11,Temporal.Asynchronous.Precedence
+thereby,9,Contingency.Cause.Result
+,3,Expansion.Manner.Arg1-as-manner
+therefore,26,Contingency.Cause.Result
+though,91,Comparison.Concession.Arg1-as-denier
+,128,Comparison.Concession.Arg2-as-denier
+,16,Comparison.Contrast
+thus,1,Contingency.Cause+Belief.Result+Belief
+,111,Contingency.Cause.Result
+till,1,Contingency.Negative-condition.Arg2-as-negCond
+,4,Temporal.Asynchronous.Precedence
+ultimately,1,Contingency.Cause.Reason
+,1,Expansion.Conjunction
+,0.5,Temporal.Asynchronous.Precedence
+,0.5,Contingency.Cause.Result
+,15,Temporal.Asynchronous.Precedence
+unless,98,Contingency.Negative-condition.Arg2-as-negCond
+until,17,Contingency.Condition.Arg2-as-cond
+,143,Temporal.Asynchronous.Precedence
+,1,Temporal.Asynchronous.Succession
+,1,Contingency.Condition.Arg2-as-cond
+,7,Temporal.Asynchronous.Succession
+upon,0.5,Temporal.Asynchronous.Succession
+,0.5,Contingency.Cause.Reason
+,1,Temporal.Synchronous
+,1,Contingency.Cause.Reason
+,2,Temporal.Synchronous
+whatever,4,Comparison.Concession.Arg1-as-denier
+when,3,Comparison.Concession.Arg1-as-denier
+,1,Comparison.Concession.Arg2-as-denier
+,1,Comparison.Contrast
+,21,Contingency.Cause.Reason
+,12,Contingency.Condition+SpeechAct
+,1,Contingency.Condition.Arg2-as-cond
+,1,Expansion.Level-of-detail.Arg2-as-detail
+,116,Contingency.Condition.Arg2-as-cond
+,2,Expansion.Manner.Arg2-as-manner
+,0.5,Temporal.Asynchronous.Precedence
+,0.5,Contingency.Condition.Arg2-as-cond
+,4,Temporal.Asynchronous.Precedence
+,0.5,Temporal.Asynchronous.Succession
+,0.5,Contingency.Cause+Belief.Reason+Belief
+,32.5,Temporal.Asynchronous.Succession
+,32.5,Contingency.Cause.Reason
+,0.5,Temporal.Asynchronous.Succession
+,0.5,Contingency.Cause.Result
+,0.5,Temporal.Asynchronous.Succession
+,0.5,Contingency.Condition+SpeechAct
+,5.5,Temporal.Asynchronous.Succession
+,5.5,Contingency.Condition.Arg2-as-cond
+,160,Temporal.Asynchronous.Succession
+,0.5,Temporal.Synchronous
+,0.5,Comparison.Contrast
+,1,Temporal.Synchronous
+,1,Contingency.Cause+Belief.Reason+Belief
+,45,Temporal.Synchronous
+,45,Contingency.Cause.Reason
+,1,Temporal.Synchronous
+,1,Contingency.Cause.Result
+,0.5,Temporal.Synchronous
+,0.5,Contingency.Condition+SpeechAct
+,32.5,Temporal.Synchronous
+,32.5,Contingency.Condition.Arg2-as-cond
+,2,Temporal.Synchronous
+,2,Expansion.Level-of-detail.Arg2-as-detail
+,509,Temporal.Synchronous
+when_and_if,0.5,Temporal.Asynchronous.Succession
+,0.5,Contingency.Condition.Arg2-as-cond
+whenever,9,Contingency.Condition.Arg2-as-cond
+where,2,Contingency.Condition.Arg2-as-cond
+whereas,5,Comparison.Contrast
+whether,7,Comparison.Concession.Arg1-as-denier
+while,203,Comparison.Concession.Arg1-as-denier
+,2,Comparison.Concession.Arg2-as-denier
+,140,Comparison.Contrast
+,1,Comparison.Similarity
+,43,Expansion.Conjunction
+,13.5,Temporal.Synchronous
+,13.5,Comparison.Concession.Arg1-as-denier
+,2.5,Temporal.Synchronous
+,2.5,Comparison.Concession.Arg2-as-denier
+,98.5,Temporal.Synchronous
+,98.5,Comparison.Contrast
+,11,Temporal.Synchronous
+,11,Expansion.Conjunction
+,163,Temporal.Synchronous
+with,2,Comparison.Concession.Arg1-as-denier
+,1,Comparison.Contrast
+,2.5,Contingency.Cause+Belief.Reason+Belief
+,2.5,Expansion.Level-of-detail.Arg2-as-detail
+,5,Contingency.Cause+Belief.Reason+Belief
+,1.5,Contingency.Cause.Reason
+,1.5,Expansion.Level-of-detail.Arg2-as-detail
+,109,Contingency.Cause.Reason
+,2,Contingency.Condition.Arg2-as-cond
+,41,Expansion.Conjunction
+,7,Expansion.Instantiation.Arg2-as-instance
+,111,Expansion.Level-of-detail.Arg2-as-detail
+,6,Expansion.Manner.Arg2-as-manner
+,5,Temporal.Synchronous
+without,19,Comparison.Concession.Arg2-as-denier
+,1,Contingency.Cause.Reason
+,1,Contingency.Cause.Result
+,9,Contingency.Negative-condition.Arg2-as-negCond
+,2,Expansion.Level-of-detail.Arg2-as-detail
+,62,Expansion.Manner.Arg2-as-manner
+yet,96,Comparison.Concession.Arg2-as-denier
+,4,Comparison.Contrast
+,2,Expansion.Conjunction

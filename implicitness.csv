@@ -1,0 +1,16 @@
+Type,Explicit,Implicit,Total,Implicitness
+Level-of-detail,263,3361,3624,92.74%
+Equivalence,27,336,363,92.56%
+Instantiation,325,1533,1858,82.516%
+Purpose,324,1373,1697,80.91%
+Cause,2116,6009,8125,73.96%
+manner,410,739,1149,64.32%
+Contrast,1234,983,2217,44.34%
+Asynchronous,2025,1289,3314,38.9%
+Conjunction,8788,4386,13174,33.29%
+Synchronous,1629,539,2168,24.86%
+Concession,4831,1504,6335,23.74%
+Similarity,102,31,133,23.31%
+Exception,35,5,40,12.5%
+Condition,1499,201,1700,11.82%
+disjunction,305,30,335,8.96%
